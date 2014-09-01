@@ -6,7 +6,7 @@ Popup a window from image target.
 ## Install
 
 ```bash
-bower install ngEhPopupImage
+bower install ng-eh-popup-image
 ```
 
 ## Install node modules
