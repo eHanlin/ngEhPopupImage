@@ -1,6 +1,8 @@
 ngEhPopupImage
 ===================================
 
+Popup a window from image target.
+
 ## Install
 
 ```bash
@@ -19,6 +21,12 @@ npm install
 * jquery
 * animate.css
 * bootstrap (optional)
+
+## Support
+
+* IE10+
+* chrome
+* firefox
 
 ## Usage
 
