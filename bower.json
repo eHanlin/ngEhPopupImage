@@ -1,0 +1,20 @@
+{
+  "name": "ngEhPopupImage",
+  "version": "0.0.1",
+  "authors": [
+    "sparrow.jang <sparrow.jang@gmail.com>"
+  ],
+  "description": "Popup a window from image target",
+  "dependencies": {
+    "angular": "~1.2.23",
+    "animate.css":"~3.2.0",
+    "jquery": "~1.11.1"
+  },
+  "keywords": [
+    "angular",
+    "popup",
+    "window",
+    "image"
+  ],
+  "license": "MIT"
+}
